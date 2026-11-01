@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:9A3412,100:F97316&height=220&section=header&text=MD%20Siyam&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Mobile%20App%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20ERP%20Specialist&descAlignY=58&descSize=18" alt="MD Siyam Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:9A3412,100:F97316&height=220&section=header&text=MD%20Siyam&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Mobile%20App%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20ERP%20Specialist&descAlignY=58&descSize=18" alt="Md. Siyam Header Banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=F97316&center=true&vCenter=true&width=820&lines=Production+Flutter+Developer;PHP+REST+APIs+%26+Admin+Portals;Centralized+Config+for+20%2B+POS+%26+HRM+Apps;Enterprise+ERP+%26+17+Approval+Modules;Bridging+Business+Strategy+%26+Software+Engineering" alt="Typing Animation" />
 
